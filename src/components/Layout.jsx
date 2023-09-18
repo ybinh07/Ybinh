@@ -21,7 +21,7 @@ const Layout = () => {
             <Header title='Sign up for an account' />
            
             <Body>
-                <Content title='Username ' type='text'></Content>
+                <Content title='Username ' type='text'/>
                 <Content title='Password (4 characters minimum) ' type='password' />
                 <Content title='Password confirm' type='password' />
                 <Content title='Email' type='email' />
