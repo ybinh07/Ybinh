@@ -1,12 +1,11 @@
 import React from 'react'
-
 import styled from 'styled-components'
 
 
 const Input = styled.input`
   height: 25px;
   width: 60%;
-  margin: auto 0px;
+  margin: auto 0px !important;
   border-radius: 5px;
   border: none;
   outline: none;
